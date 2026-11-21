@@ -1,0 +1,9 @@
+.jwt-key
+demo-access.txt
+*.db
+__pycache__/
+*.py[cod]
+.venv/
+.env
+*.db-wal
+*.db-shm
